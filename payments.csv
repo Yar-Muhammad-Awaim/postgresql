@@ -1,0 +1,23 @@
+member_id,amount,payment_date,plan
+1,29.99,2024-01-15,Monthly Basic
+1,29.99,2024-02-15,Monthly Basic
+1,49.99,2024-03-15,Monthly Premium
+2,99.99,2024-02-20,Quarterly Basic
+2,149.99,2024-05-20,Quarterly Premium
+3,29.99,2024-03-10,Monthly Basic
+3,29.99,2024-04-10,Monthly Basic
+3,29.99,2024-05-10,Monthly Basic
+4,49.99,2024-04-05,Monthly Premium
+4,49.99,2024-05-05,Monthly Premium
+5,199.99,2024-05-18,Annual Basic
+5,49.99,2024-06-18,Monthly Premium
+6,29.99,2024-06-22,Monthly Basic
+6,99.99,2024-07-22,Quarterly Basic
+7,49.99,2024-07-01,Monthly Premium
+7,49.99,2024-08-01,Monthly Premium
+8,29.99,2024-08-14,Monthly Basic
+8,29.99,2024-09-14,Monthly Basic
+9,149.99,2024-09-30,Quarterly Premium
+9,149.99,2024-12-30,Quarterly Premium
+10,29.99,2024-10-12,Monthly Basic
+10,49.99,2024-11-12,Monthly Premium

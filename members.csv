@@ -1,0 +1,11 @@
+name,phone_number,joined_at,is_active
+Alice Johnson,+1234567890,2024-01-15,true
+Bob Smith,+1234567891,2024-02-20,true
+Charlie Brown,+1234567892,2024-03-10,true
+Diana Prince,+1234567893,2024-04-05,false
+Ethan Hunt,+1234567894,2024-05-18,true
+Fiona Green,+1234567895,2024-06-22,true
+George Clark,+1234567896,2024-07-01,false
+Hannah Lee,+1234567897,2024-08-14,true
+Ivan Torres,+1234567898,2024-09-30,true
+Julia Adams,+1234567899,2024-10-12,true
