@@ -1,0 +1,50 @@
+# --- generated ---
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+# --- secrets ---
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*id_rsa*
+*id_ed25519*
+*secrets*
+*secret*
+# --- node ---
+node_modules/
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+.parcel-cache/
+.turbo/
+.cache/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# --- python ---
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.venv/
+venv/
+env/
+# --- java ---
+target/
+.gradle/
+# --- dotnet/cpp ---
+bin/
+obj/
+.vs/
